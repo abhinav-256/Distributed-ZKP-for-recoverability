@@ -21,4 +21,4 @@ This is an implementation of a novel distributed ZKP that makes E2E-V voting rec
    - mpirun -np c python3.7 dis_zkproofs.py n alpha [verbosity]
    IMPORTANT: n must be divisible by c.
 
-By Prashant Agrawal and Abhinav Nakarmi
+By Prashant Agrawal and Abhinav Nakarmi (moved from private repo)

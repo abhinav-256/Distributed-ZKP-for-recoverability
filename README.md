@@ -18,7 +18,7 @@ This is an implementation of a novel distributed ZKP that makes E2E-V voting rec
    - sudo apt install mpich
    - python3.7 -m pip install mpi4py
 3. Run on c number of cores with n votes and alpha authorities (with optional argument verbosity=0/1 to print more detailed timings).:
-   - mpirun -np c python3.7 dis_zkproofs.py n alpha [verbosity]
+   - mpirun -np c python3.7 profiling/dis_zkproofs.py n alpha [verbosity]
    IMPORTANT: n must be divisible by c.
 
 By Prashant Agrawal and Abhinav Nakarmi (moved from private repo)

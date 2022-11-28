@@ -1,0 +1,42 @@
+# .bashrc
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+        . /etc/bashrc
+fi
+
+# User specific aliases and functions
+export PS1='\[\e]0;\h:\w\a\][\[\e[31m\]\u@\h \[\e[34m\]\w\[\e[0m\]]\n\$ '
+export HISTCONTROL=erasedups
+export HISTSIZE=1000
+export HISTIGNORE="&:l[sl]:[bf]g:exit:cd ..:clear:cd"
+export OMP_NUM_THREADS=1
+alias ls="ls --color=auto -v"
+alias vi=vim
+export SSL_CERT_FILE=$HOME/mycerts/CCIITD-CA.crt
+export http_proxy=http://10.10.78.61:3128
+export https_proxy=http://10.10.78.61:3128
+#export MPI_DIR=$HOME/installs/mpich
+
+export CFLAGS="-std=c99 -I/usr/local/include -I$HOME/installs/gmp/include -I$HOME/installs/pbc/include"
+export LDFLAGS="-L/usr/local/lib -L$HOME/installs/gmp/lib -L$HOME/installs/pbc/lib -lm -lrt -lgfortran -lquadmath"
+export LD_LIBRARY_PATH="$HOME/installs/pbc/lib:$HOME/installs/gmp/lib:/usr/local/lib:$LD_LIBRARY_PATH"
+module load mpi/mpich/3.1.4/gcc/mpivars
+#export PATH=$HOME/installs/mpich/bin:$PATH
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/home/cse/phd/csz188011/installs/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/home/cse/phd/csz188011/installs/anaconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/cse/phd/csz188011/installs/anaconda3/etc/profile.d/conda.sh"
+    else
+        export PATH="/home/cse/phd/csz188011/installs/anaconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+
+conda activate voting3

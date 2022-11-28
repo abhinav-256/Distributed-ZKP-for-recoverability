@@ -1,0 +1,1800 @@
+******** Worker 18 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 4800 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3900 s
+time (pok2nizkproofs): 59 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 55 s
+time (get_blsigs_rev_par): 21000 s
+time (gen_beaver_triples): 11 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 69000 s
+---------------------------
+
+******** Worker 0 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 33 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 390 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 1 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 4500 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1800 s
+time (pok2nizkproofs): 28 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 26 s
+time (get_blsigs_rev_par): 21000 s
+time (gen_beaver_triples): 400 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 85 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6400 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3600 s
+time (pok2nizkproofs): 56 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 53 s
+time (get_blsigs_rev_par): 17000 s
+time (gen_beaver_triples): 370 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 13 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 4200 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2100 s
+time (pok2nizkproofs): 59 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 57 s
+time (get_blsigs_rev_par): 23000 s
+time (gen_beaver_triples): 340 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 37 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1800 s
+time (pok2nizkproofs): 29 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 22000 s
+time (gen_beaver_triples): 400 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 31 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6100 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3800 s
+time (pok2nizkproofs): 55 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 53 s
+time (get_blsigs_rev_par): 18000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 47 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 9400 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 47 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 51 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6200 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2300 s
+time (pok2nizkproofs): 29 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 27 s
+time (get_blsigs_rev_par): 20000 s
+time (gen_beaver_triples): 400 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 23 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 9400 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 53 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 29 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 9 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 13000 s
+time (pok1nizkproofs): 5200 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1800 s
+time (pok2nizkproofs): 29 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 27 s
+time (get_blsigs_rev_par): 21000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 82 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 4900 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3900 s
+time (pok2nizkproofs): 63 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 60 s
+time (get_blsigs_rev_par): 21000 s
+time (gen_beaver_triples): 390 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 97 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 9700 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 30 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 30 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 41 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 3500 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1800 s
+time (pok2nizkproofs): 29 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 27 s
+time (get_blsigs_rev_par): 22000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 69 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3400 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 42 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 15 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 9400 s
+time (get_blsigs_par): 10000 s
+time (pok1nizkproofs): 5100 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3900 s
+time (pok2nizkproofs): 57 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 57 s
+time (get_blsigs_rev_par): 21000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 71 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 53 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 29 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 400 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7600 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 19 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 51 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 400 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 64 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 3800 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1800 s
+time (pok2nizkproofs): 29 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 22000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 38 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8600 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 36 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 29 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 65 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 4000 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3900 s
+time (pok2nizkproofs): 58 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 55 s
+time (get_blsigs_rev_par): 21000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 76 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6600 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3600 s
+time (pok2nizkproofs): 54 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 53 s
+time (get_blsigs_rev_par): 17000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 70 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 45 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 59 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 5100 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1700 s
+time (pok2nizkproofs): 28 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 27 s
+time (get_blsigs_rev_par): 20000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 67 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 14000 s
+time (pok1nizkproofs): 6600 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3600 s
+time (pok2nizkproofs): 57 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 52 s
+time (get_blsigs_rev_par): 17000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 13000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 3 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8600 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 5800 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2700 s
+time (pok2nizkproofs): 28 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 27 s
+time (get_blsigs_rev_par): 21000 s
+time (gen_beaver_triples): 390 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7600 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 68 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 37 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 22 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3400 s
+time (pok2nizkproofs): 54 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 54 s
+time (get_blsigs_rev_par): 22000 s
+time (gen_beaver_triples): 400 s
+time (pok3nizkproofs): 13000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 91 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 9800 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 31 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 30 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 39 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 13000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 81 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6500 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3400 s
+time (pok2nizkproofs): 30 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 26 s
+time (get_blsigs_rev_par): 17000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 16 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6500 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3400 s
+time (pok2nizkproofs): 28 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 26 s
+time (get_blsigs_rev_par): 17000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 13000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 11 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 5900 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1700 s
+time (pok2nizkproofs): 28 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 27 s
+time (get_blsigs_rev_par): 20000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 13000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 63 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3900 s
+time (pok2nizkproofs): 55 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 53 s
+time (get_blsigs_rev_par): 22000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 13000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 95 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6400 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3000 s
+time (pok2nizkproofs): 28 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 27 s
+time (get_blsigs_rev_par): 18000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 13000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 87 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6200 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3800 s
+time (pok2nizkproofs): 55 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 56 s
+time (get_blsigs_rev_par): 18000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 13000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 74 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 5500 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1800 s
+time (pok2nizkproofs): 63 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 57 s
+time (get_blsigs_rev_par): 21000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 13000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 20 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 9700 s
+time (pok1nizkproofs): 5400 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3800 s
+time (pok2nizkproofs): 59 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 59 s
+time (get_blsigs_rev_par): 20000 s
+time (gen_beaver_triples): 400 s
+time (pok3nizkproofs): 13000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 99 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 9600 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1900 s
+time (pok2nizkproofs): 29 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 29 s
+time (get_blsigs_rev_par): 23000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7600 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 42 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6500 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 28 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 26 s
+time (get_blsigs_rev_par): 19000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 13000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 53 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 51 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 29 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 13000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 83 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6000 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3800 s
+time (pok2nizkproofs): 58 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 57 s
+time (get_blsigs_rev_par): 19000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 13000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 45 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8900 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 52 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7600 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 56 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3400 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 32 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 13000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7500 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 60 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 9700 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 30 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 13000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7400 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 62 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 3500 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1800 s
+time (pok2nizkproofs): 29 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 27 s
+time (get_blsigs_rev_par): 22000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 13000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 7600 s
+time (main): 70000 s
+---------------------------
+
+******** Worker 28 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 9700 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 30 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 28000 s
+time (gen_beaver_triples): 40 s
+time (pok3nizkproofs): 13000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 5800 s
+time (main): 72000 s
+---------------------------
+
+******** Worker 34 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 4400 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2100 s
+time (pok2nizkproofs): 65 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 60 s
+time (get_blsigs_rev_par): 25000 s
+time (gen_beaver_triples): 240 s
+time (pok3nizkproofs): 12000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 5500 s
+time (main): 72000 s
+---------------------------
+
+******** Worker 96 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6600 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2900 s
+time (pok2nizkproofs): 29 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 27 s
+time (get_blsigs_rev_par): 22000 s
+time (gen_beaver_triples): 400 s
+time (pok3nizkproofs): 18000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 4000 s
+time (main): 76000 s
+---------------------------
+
+******** Worker 5 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 13000 s
+time (pok1nizkproofs): 6400 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3700 s
+time (pok2nizkproofs): 54 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 53 s
+time (get_blsigs_rev_par): 22000 s
+time (gen_beaver_triples): 330 s
+time (pok3nizkproofs): 18000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 4000 s
+time (main): 76000 s
+---------------------------
+
+******** Worker 43 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1800 s
+time (pok2nizkproofs): 29 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 27 s
+time (get_blsigs_rev_par): 26000 s
+time (gen_beaver_triples): 400 s
+time (pok3nizkproofs): 18000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 4100 s
+time (main): 76000 s
+---------------------------
+
+******** Worker 33 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 51 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 29 s
+time (get_blsigs_rev_par): 29000 s
+time (gen_beaver_triples): 130 s
+time (pok3nizkproofs): 18000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 4000 s
+time (main): 76000 s
+---------------------------
+
+******** Worker 73 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3400 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1900 s
+time (pok2nizkproofs): 29 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 28000 s
+time (gen_beaver_triples): 390 s
+time (pok3nizkproofs): 18000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 4000 s
+time (main): 76000 s
+---------------------------
+
+******** Worker 57 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6600 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3600 s
+time (pok2nizkproofs): 28 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 27 s
+time (get_blsigs_rev_par): 21000 s
+time (gen_beaver_triples): 390 s
+time (pok3nizkproofs): 18000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 4100 s
+time (main): 76000 s
+---------------------------
+
+******** Worker 78 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6500 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3100 s
+time (pok2nizkproofs): 28 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 22000 s
+time (gen_beaver_triples): 380 s
+time (pok3nizkproofs): 18000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 4000 s
+time (main): 76000 s
+---------------------------
+
+******** Worker 66 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 52 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 29 s
+time (get_blsigs_rev_par): 28000 s
+time (gen_beaver_triples): 28 s
+time (pok3nizkproofs): 20000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 5100 s
+time (main): 79000 s
+---------------------------
+
+******** Worker 14 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6500 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3700 s
+time (pok2nizkproofs): 55 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 52 s
+time (get_blsigs_rev_par): 21000 s
+time (gen_beaver_triples): 390 s
+time (pok3nizkproofs): 22000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 4000 s
+time (main): 80000 s
+---------------------------
+
+******** Worker 88 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8500 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2900 s
+time (pok2nizkproofs): 59 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 53 s
+time (get_blsigs_rev_par): 28000 s
+time (gen_beaver_triples): 370 s
+time (pok3nizkproofs): 22000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 4000 s
+time (main): 80000 s
+---------------------------
+
+******** Worker 98 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 9600 s
+time (get_blsigs_par): 10000 s
+time (pok1nizkproofs): 5600 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1900 s
+time (pok2nizkproofs): 28 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 27 s
+time (get_blsigs_rev_par): 22000 s
+time (gen_beaver_triples): 360 s
+time (pok3nizkproofs): 19000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 11000 s
+time (main): 81000 s
+---------------------------
+
+******** Worker 27 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8900 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 30 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 29 s
+time (get_blsigs_rev_par): 28000 s
+time (gen_beaver_triples): 20 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 4700 s
+time (main): 81000 s
+---------------------------
+
+******** Worker 6 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 5800 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3800 s
+time (pok2nizkproofs): 56 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 57 s
+time (get_blsigs_rev_par): 20000 s
+time (gen_beaver_triples): 410 s
+time (pok3nizkproofs): 20000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 11000 s
+time (main): 81000 s
+---------------------------
+
+******** Worker 93 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6600 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3700 s
+time (pok2nizkproofs): 60 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 53 s
+time (get_blsigs_rev_par): 21000 s
+time (gen_beaver_triples): 370 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 5400 s
+time (main): 82000 s
+---------------------------
+
+******** Worker 12 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 4900 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3900 s
+time (pok2nizkproofs): 57 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 56 s
+time (get_blsigs_rev_par): 25000 s
+time (gen_beaver_triples): 380 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 6200 s
+time (main): 83000 s
+---------------------------
+
+******** Worker 52 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6500 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3600 s
+time (pok2nizkproofs): 59 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 54 s
+time (get_blsigs_rev_par): 21000 s
+time (gen_beaver_triples): 370 s
+time (pok3nizkproofs): 20000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9900 s
+time (main): 84000 s
+---------------------------
+
+******** Worker 46 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 9400 s
+time (pok1nizkproofs): 4100 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3500 s
+time (pok2nizkproofs): 29 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 27 s
+time (get_blsigs_rev_par): 26000 s
+time (gen_beaver_triples): 400 s
+time (pok3nizkproofs): 20000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9900 s
+time (main): 85000 s
+---------------------------
+
+******** Worker 29 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 9800 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 4000 s
+time (pok2nizkproofs): 59 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 57 s
+time (get_blsigs_rev_par): 25000 s
+time (gen_beaver_triples): 20 s
+time (pok3nizkproofs): 22000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9700 s
+time (main): 85000 s
+---------------------------
+
+******** Worker 40 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 9200 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2200 s
+time (pok2nizkproofs): 30 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 26000 s
+time (gen_beaver_triples): 17 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9600 s
+time (main): 85000 s
+---------------------------
+
+******** Worker 8 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 9800 s
+time (get_blsigs_par): 9900 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 34 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 30 s
+time (get_blsigs_rev_par): 28000 s
+time (gen_beaver_triples): 19 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9600 s
+time (main): 85000 s
+---------------------------
+
+******** Worker 50 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 34 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 29 s
+time (get_blsigs_rev_par): 28000 s
+time (gen_beaver_triples): 24 s
+time (pok3nizkproofs): 22000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9600 s
+time (main): 85000 s
+---------------------------
+
+******** Worker 39 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6500 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3600 s
+time (pok2nizkproofs): 57 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 54 s
+time (get_blsigs_rev_par): 21000 s
+time (gen_beaver_triples): 28 s
+time (pok3nizkproofs): 22000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9500 s
+time (main): 85000 s
+---------------------------
+
+******** Worker 84 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 3900 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1800 s
+time (pok2nizkproofs): 28 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 25000 s
+time (gen_beaver_triples): 19 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9600 s
+time (main): 85000 s
+---------------------------
+
+******** Worker 26 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 9700 s
+time (pok1nizkproofs): 4600 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3900 s
+time (pok2nizkproofs): 57 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 58 s
+time (get_blsigs_rev_par): 25000 s
+time (gen_beaver_triples): 12 s
+time (pok3nizkproofs): 22000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9600 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 77 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 13000 s
+time (pok1nizkproofs): 6500 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3600 s
+time (pok2nizkproofs): 59 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 55 s
+time (get_blsigs_rev_par): 22000 s
+time (gen_beaver_triples): 380 s
+time (pok3nizkproofs): 22000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9500 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 90 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 4400 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3400 s
+time (pok2nizkproofs): 53 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 52 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 24 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9300 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 35 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 5800 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2200 s
+time (pok2nizkproofs): 29 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 27 s
+time (get_blsigs_rev_par): 25000 s
+time (gen_beaver_triples): 37 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9400 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 55 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 9800 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 30 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 28000 s
+time (gen_beaver_triples): 35 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9400 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 75 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 9700 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 31 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 28000 s
+time (gen_beaver_triples): 36 s
+time (pok3nizkproofs): 22000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9300 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 80 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 53 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 29 s
+time (get_blsigs_rev_par): 29000 s
+time (gen_beaver_triples): 120 s
+time (pok3nizkproofs): 22000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9400 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 25 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 52 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 29 s
+time (get_blsigs_rev_par): 28000 s
+time (gen_beaver_triples): 22 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9300 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 94 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 13000 s
+time (pok1nizkproofs): 6400 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2700 s
+time (pok2nizkproofs): 28 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 27 s
+time (get_blsigs_rev_par): 23000 s
+time (gen_beaver_triples): 32 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9400 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 36 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6500 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3600 s
+time (pok2nizkproofs): 55 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 53 s
+time (get_blsigs_rev_par): 21000 s
+time (gen_beaver_triples): 400 s
+time (pok3nizkproofs): 22000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9300 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 49 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3400 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 40 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 29 s
+time (get_blsigs_rev_par): 28000 s
+time (gen_beaver_triples): 19 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9300 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 21 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 44 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 29 s
+time (get_blsigs_rev_par): 28000 s
+time (gen_beaver_triples): 34 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9300 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 32 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 42 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 29000 s
+time (gen_beaver_triples): 98 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9300 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 7 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 5700 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2900 s
+time (pok2nizkproofs): 56 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 53 s
+time (get_blsigs_rev_par): 23000 s
+time (gen_beaver_triples): 40 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9300 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 4 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 49 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 29 s
+time (get_blsigs_rev_par): 29000 s
+time (gen_beaver_triples): 390 s
+time (pok3nizkproofs): 22000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9200 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 79 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2300 s
+time (pok2nizkproofs): 61 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 68 s
+time (get_blsigs_rev_par): 28000 s
+time (gen_beaver_triples): 360 s
+time (pok3nizkproofs): 22000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9200 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 86 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 36 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 29000 s
+time (gen_beaver_triples): 350 s
+time (pok3nizkproofs): 22000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9100 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 10 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 14000 s
+time (pok1nizkproofs): 6600 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3600 s
+time (pok2nizkproofs): 59 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 53 s
+time (get_blsigs_rev_par): 21000 s
+time (gen_beaver_triples): 360 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9100 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 54 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 53 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 27 s
+time (get_blsigs_rev_par): 29000 s
+time (gen_beaver_triples): 400 s
+time (pok3nizkproofs): 22000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9100 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 61 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 2000 s
+time (pok2nizkproofs): 41 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 29000 s
+time (gen_beaver_triples): 320 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9100 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 58 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 14000 s
+time (pok1nizkproofs): 4000 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1800 s
+time (pok2nizkproofs): 29 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 26000 s
+time (gen_beaver_triples): 400 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9000 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 72 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 9900 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1900 s
+time (pok2nizkproofs): 57 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 56 s
+time (get_blsigs_rev_par): 27000 s
+time (gen_beaver_triples): 380 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9100 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 92 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 4900 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1800 s
+time (pok2nizkproofs): 28 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 27 s
+time (get_blsigs_rev_par): 25000 s
+time (gen_beaver_triples): 400 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9000 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 2 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 10000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 1900 s
+time (pok2nizkproofs): 30 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 28 s
+time (get_blsigs_rev_par): 28000 s
+time (gen_beaver_triples): 400 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9000 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 17 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6000 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3700 s
+time (pok2nizkproofs): 57 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 53 s
+time (get_blsigs_rev_par): 22000 s
+time (gen_beaver_triples): 390 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9000 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 24 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 3300 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3300 s
+time (pok2nizkproofs): 58 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 56 s
+time (get_blsigs_rev_par): 27000 s
+time (gen_beaver_triples): 400 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9000 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 44 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 8400 s
+time (get_blsigs_par): 11000 s
+time (pok1nizkproofs): 5600 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3900 s
+time (pok2nizkproofs): 57 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 55 s
+time (get_blsigs_rev_par): 24000 s
+time (gen_beaver_triples): 390 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 8700 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 89 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 12000 s
+time (pok1nizkproofs): 6500 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 3700 s
+time (pok2nizkproofs): 55 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 51 s
+time (get_blsigs_rev_par): 21000 s
+time (gen_beaver_triples): 370 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 9000 s
+time (main): 86000 s
+---------------------------
+
+******** Worker 48 **********
+n=%s, alpha=%s, nprocs=%s (1000000, 4, 100)
+time (process_votes): 10000 s
+time (get_blsigs_par): 9600 s
+time (pok1nizkproofs): 5000 s
+retval (pok1nizkverifs): True
+time (pok1nizkverifs): 4000 s
+time (pok2nizkproofs): 65 s
+retval (pok2nizkverifs): True
+time (pok2nizkverifs): 52 s
+time (get_blsigs_rev_par): 25000 s
+time (gen_beaver_triples): 390 s
+time (pok3nizkproofs): 23000 s
+retval (pok3nizkverifs): True
+time (pok3nizkverifs): 8900 s
+time (main): 86000 s
+---------------------------
+

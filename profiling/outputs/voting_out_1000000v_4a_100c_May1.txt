@@ -1,0 +1,3900 @@
+******** Worker 82 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 3.1 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 190 s
+  time (decrypt blinded signatures): 28 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 5600 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 25 s
+time (dpk1nizkproofs): 56 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 56 s
+time (get_verfsigs_rev): 51 s
+  time (keygen): 3500 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 1800 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 8900 s
+  time (generate blinding shares): 81 s
+  time (generate encrypted blinded signatures): 3400 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 20000 s
+time (dpk2nizkproofs): 6900 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4500 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 51 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 5.7 s
+  time (encrypt sigs): 47 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 9800 s
+  time (generate encrypted blinded signatures): 240 s
+  time (decrypt blinded signatures): 27 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3100 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 780 s
+time (gen_beaver_triples): 21 s
+time (dpk1nizkproofs): 43 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 58 s
+time (get_verfsigs_rev): 5000 s
+  time (keygen): 2.7 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 2300 s
+  time (homomorphically obtain r component of BBS+ sig): 1.1 s
+  time (re-encrypt and permute): 8400 s
+  time (generate blinding shares): 81 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 6900 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 11 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 13 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 20 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 890 s
+time (gen_beaver_triples): 280 s
+time (dpk1nizkproofs): 140 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 25 s
+time (get_verfsigs_rev): 130 s
+  time (keygen): 6200 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 6900 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 20 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 7.0 s
+  time (encrypt sigs): 51 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 8300 s
+  time (generate encrypted blinded signatures): 190 s
+  time (decrypt blinded signatures): 23 s
+time (get_blsigs_par): 9700 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 820 s
+time (gen_beaver_triples): 210 s
+time (dpk1nizkproofs): 51 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 26 s
+  time (keygen): 6100 s
+  time (encrypt sigs): 870 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 81 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 6900 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 18 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 3.2 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 19 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3400 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 880 s
+time (gen_beaver_triples): 310 s
+time (dpk1nizkproofs): 120 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 24 s
+time (get_verfsigs_rev): 35 s
+  time (keygen): 6200 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1600 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 6900 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 34 **********
+time (process_votes): 8600 s
+time (get_verfsigs): 3.0 s
+  time (encrypt sigs): 24 s
+  time (re-encrypt and reverse-permute signatures): 3000 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 19 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 890 s
+time (gen_beaver_triples): 170 s
+time (dpk1nizkproofs): 130 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 24 s
+time (get_verfsigs_rev): 170 s
+  time (keygen): 6300 s
+  time (encrypt sigs): 1400 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 9300 s
+  time (generate blinding shares): 81 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 6900 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 0 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 3.0 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 20 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 890 s
+time (gen_beaver_triples): 280 s
+time (dpk1nizkproofs): 140 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 23 s
+time (get_verfsigs_rev): 42 s
+  time (keygen): 94 s
+  time (encrypt sigs): 760 s
+  time (encrypt randomness (paillier)): 1500 s
+  time (homomorphically obtain r component of BBS+ sig): 1.1 s
+  time (re-encrypt and permute): 16000 s
+  time (generate blinding shares): 80 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 6900 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 44 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 1900 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 8200 s
+  time (generate encrypted blinded signatures): 180 s
+  time (decrypt blinded signatures): 23 s
+time (get_blsigs_par): 9600 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 820 s
+time (gen_beaver_triples): 280 s
+time (dpk1nizkproofs): 67 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 53 s
+  time (keygen): 6200 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 6900 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 56 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 5.7 s
+  time (encrypt sigs): 52 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 8200 s
+  time (generate encrypted blinded signatures): 170 s
+  time (decrypt blinded signatures): 23 s
+time (get_blsigs_par): 9600 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 830 s
+time (gen_beaver_triples): 300 s
+time (dpk1nizkproofs): 76 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 28 s
+  time (keygen): 6200 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 95 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 1900 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 22 s
+time (get_blsigs_par): 9400 s
+time (dpk0nizkproofs): 4600 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 780 s
+time (gen_beaver_triples): 10 s
+time (dpk1nizkproofs): 29 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 5100 s
+  time (keygen): 400 s
+  time (encrypt sigs): 870 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9900 s
+  time (generate blinding shares): 81 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 46 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 14 s
+  time (encrypt sigs): 53 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 360 s
+  time (decrypt blinded signatures): 50 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6400 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 200 s
+time (dpk1nizkproofs): 81 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 51 s
+time (get_verfsigs_rev): 67 s
+  time (keygen): 13 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3200 s
+  time (homomorphically obtain r component of BBS+ sig): 2.8 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 41 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 6.6 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 21 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 890 s
+time (gen_beaver_triples): 260 s
+time (dpk1nizkproofs): 140 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 25 s
+time (get_verfsigs_rev): 2300 s
+  time (keygen): 4100 s
+  time (encrypt sigs): 870 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.1 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 27 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 6.2 s
+  time (encrypt sigs): 51 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 8300 s
+  time (generate encrypted blinded signatures): 180 s
+  time (decrypt blinded signatures): 23 s
+time (get_blsigs_par): 9700 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 790 s
+time (gen_beaver_triples): 230 s
+time (dpk1nizkproofs): 55 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 29 s
+time (get_verfsigs_rev): 27 s
+  time (keygen): 6200 s
+  time (encrypt sigs): 870 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 14 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 6.0 s
+  time (encrypt sigs): 53 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 8400 s
+  time (generate encrypted blinded signatures): 190 s
+  time (decrypt blinded signatures): 24 s
+time (get_blsigs_par): 9700 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 770 s
+time (gen_beaver_triples): 220 s
+time (dpk1nizkproofs): 53 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 29 s
+time (get_verfsigs_rev): 6100 s
+  time (keygen): 25 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 820 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 6900 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 93 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 230 s
+  time (encrypt sigs): 49 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 21 s
+time (get_blsigs_par): 9300 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 880 s
+time (gen_beaver_triples): 300 s
+time (dpk1nizkproofs): 130 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 25 s
+time (get_verfsigs_rev): 6200 s
+  time (keygen): 130 s
+  time (encrypt sigs): 870 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 13 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 43 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3000 s
+  time (getting blinded shares): 9200 s
+  time (generate encrypted blinded signatures): 190 s
+  time (decrypt blinded signatures): 23 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 3200 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 750 s
+time (gen_beaver_triples): 11 s
+time (dpk1nizkproofs): 29 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 5500 s
+  time (keygen): 110 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.1 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 88 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 6.2 s
+  time (encrypt sigs): 50 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 370 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6400 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 200 s
+time (dpk1nizkproofs): 78 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 54 s
+time (get_verfsigs_rev): 48 s
+  time (keygen): 0.00066 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.6 s
+  time (re-encrypt and permute): 7300 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 6 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 5.9 s
+  time (encrypt sigs): 48 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 350 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6500 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 200 s
+time (dpk1nizkproofs): 78 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 53 s
+time (get_verfsigs_rev): 50 s
+  time (keygen): 0.0006 s
+  time (encrypt sigs): 1800 s
+  time (encrypt randomness (paillier)): 2300 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 8400 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 42 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 38 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3000 s
+  time (getting blinded shares): 8400 s
+  time (generate encrypted blinded signatures): 210 s
+  time (decrypt blinded signatures): 27 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 5800 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 21 s
+time (dpk1nizkproofs): 54 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 57 s
+time (get_verfsigs_rev): 48 s
+  time (keygen): 2900 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3400 s
+  time (homomorphically obtain r component of BBS+ sig): 2.3 s
+  time (re-encrypt and permute): 7300 s
+  time (generate blinding shares): 81 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 20000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 70 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 6.3 s
+  time (encrypt sigs): 59 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 240 s
+  time (decrypt blinded signatures): 24 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 3100 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 780 s
+time (gen_beaver_triples): 11 s
+time (dpk1nizkproofs): 28 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 4700 s
+  time (keygen): 24 s
+  time (encrypt sigs): 870 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 81 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 6900 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4500 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 65 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 3.1 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 22 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 890 s
+time (gen_beaver_triples): 300 s
+time (dpk1nizkproofs): 130 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 26 s
+time (get_verfsigs_rev): 100 s
+  time (keygen): 6200 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 21 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 46 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3000 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 23 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3500 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1800 s
+time (gen_beaver_triples): 21 s
+time (dpk1nizkproofs): 59 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 56 s
+time (get_verfsigs_rev): 5400 s
+  time (keygen): 120 s
+  time (encrypt sigs): 870 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 7 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 6.3 s
+  time (encrypt sigs): 50 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 8400 s
+  time (generate encrypted blinded signatures): 190 s
+  time (decrypt blinded signatures): 23 s
+time (get_blsigs_par): 9800 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 790 s
+time (gen_beaver_triples): 190 s
+time (dpk1nizkproofs): 48 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 28 s
+time (get_verfsigs_rev): 26 s
+  time (keygen): 6100 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9900 s
+  time (generate blinding shares): 81 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 39 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 1900 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 190 s
+  time (decrypt blinded signatures): 22 s
+time (get_blsigs_par): 9400 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 880 s
+time (gen_beaver_triples): 300 s
+time (dpk1nizkproofs): 120 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 26 s
+time (get_verfsigs_rev): 140 s
+  time (keygen): 6100 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.4 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 86 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 1900 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 21 s
+time (get_blsigs_par): 9300 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 900 s
+time (gen_beaver_triples): 290 s
+time (dpk1nizkproofs): 130 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 24 s
+time (get_verfsigs_rev): 6300 s
+  time (keygen): 25 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 81 s
+  time (generate encrypted blinded signatures): 3600 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 6900 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 3 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 3.0 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 22 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 890 s
+time (gen_beaver_triples): 250 s
+time (dpk1nizkproofs): 140 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 21 s
+time (get_verfsigs_rev): 170 s
+  time (keygen): 6200 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9900 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3600 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 92 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 15 s
+  time (encrypt sigs): 51 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 340 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6500 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1600 s
+time (gen_beaver_triples): 130 s
+time (dpk1nizkproofs): 120 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 50 s
+time (get_verfsigs_rev): 160 s
+  time (keygen): 32 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.4 s
+  time (re-encrypt and permute): 7300 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4500 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 23 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 41 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 21 s
+time (get_blsigs_par): 9400 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 880 s
+time (gen_beaver_triples): 290 s
+time (dpk1nizkproofs): 130 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 23 s
+time (get_verfsigs_rev): 180 s
+  time (keygen): 6100 s
+  time (encrypt sigs): 1600 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.1 s
+  time (re-encrypt and permute): 9100 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 59 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 1900 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 150 s
+  time (decrypt blinded signatures): 19 s
+time (get_blsigs_par): 9300 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 890 s
+time (gen_beaver_triples): 300 s
+time (dpk1nizkproofs): 130 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 24 s
+time (get_verfsigs_rev): 160 s
+  time (keygen): 6200 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.1 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 81 s
+  time (generate encrypted blinded signatures): 3600 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 4 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 5.5 s
+  time (encrypt sigs): 50 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 8300 s
+  time (generate encrypted blinded signatures): 190 s
+  time (decrypt blinded signatures): 23 s
+time (get_blsigs_par): 9700 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 810 s
+time (gen_beaver_triples): 230 s
+time (dpk1nizkproofs): 54 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 28 s
+time (get_verfsigs_rev): 26 s
+  time (keygen): 6100 s
+  time (encrypt sigs): 1200 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.0 s
+  time (re-encrypt and permute): 7900 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4500 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 35 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 12 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 9100 s
+  time (generate encrypted blinded signatures): 230 s
+  time (decrypt blinded signatures): 28 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6000 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 790 s
+time (gen_beaver_triples): 11 s
+time (dpk1nizkproofs): 28 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 26 s
+  time (keygen): 3000 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.5 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 3600 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 20000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 45 **********
+time (process_votes): 11000 s
+time (get_verfsigs): 6.1 s
+  time (encrypt sigs): 50 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 8100 s
+  time (generate encrypted blinded signatures): 170 s
+  time (decrypt blinded signatures): 23 s
+time (get_blsigs_par): 9400 s
+time (dpk0nizkproofs): 4800 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 780 s
+time (gen_beaver_triples): 10 s
+time (dpk1nizkproofs): 29 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 5000 s
+  time (keygen): 130 s
+  time (encrypt sigs): 870 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 81 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 55 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 12 s
+  time (encrypt sigs): 49 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 8600 s
+  time (generate encrypted blinded signatures): 190 s
+  time (decrypt blinded signatures): 24 s
+time (get_blsigs_par): 10000 s
+time (dpk0nizkproofs): 3400 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 710 s
+time (gen_beaver_triples): 67 s
+time (dpk1nizkproofs): 29 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 28 s
+time (get_verfsigs_rev): 25 s
+  time (keygen): 6100 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1600 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 9900 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 7100 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 96 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 37 s
+  time (encrypt sigs): 50 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 8300 s
+  time (generate encrypted blinded signatures): 180 s
+  time (decrypt blinded signatures): 23 s
+time (get_blsigs_par): 9600 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 810 s
+time (gen_beaver_triples): 260 s
+time (dpk1nizkproofs): 63 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 29 s
+time (get_verfsigs_rev): 5900 s
+  time (keygen): 230 s
+  time (encrypt sigs): 940 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.3 s
+  time (re-encrypt and permute): 8200 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 7100 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 48 **********
+time (process_votes): 8600 s
+time (get_verfsigs): 310 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 2700 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 150 s
+  time (decrypt blinded signatures): 20 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 900 s
+time (gen_beaver_triples): 280 s
+time (dpk1nizkproofs): 140 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 25 s
+time (get_verfsigs_rev): 42 s
+  time (keygen): 6300 s
+  time (encrypt sigs): 870 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9900 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3800 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4300 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 37 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 39 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 3000 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 19 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 890 s
+time (gen_beaver_triples): 300 s
+time (dpk1nizkproofs): 130 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 26 s
+time (get_verfsigs_rev): 6200 s
+  time (keygen): 87 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.8 s
+  time (re-encrypt and permute): 7300 s
+  time (generate blinding shares): 79 s
+  time (generate encrypted blinded signatures): 4000 s
+  time (decryption of blinded signatures): 810 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 6900 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4200 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 59000 s
+---------------------------
+
+******** Worker 47 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 1900 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 20 s
+time (get_blsigs_par): 9300 s
+time (dpk0nizkproofs): 4200 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 20 s
+time (dpk1nizkproofs): 28 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 4500 s
+  time (keygen): 370 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3400 s
+  time (homomorphically obtain r component of BBS+ sig): 2.4 s
+  time (re-encrypt and permute): 7300 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 4300 s
+  time (decryption of blinded signatures): 810 s
+time (get_blsigs_rev_par): 18000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4000 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 60000 s
+---------------------------
+
+******** Worker 25 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 3.5 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 21 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 910 s
+time (gen_beaver_triples): 290 s
+time (dpk1nizkproofs): 130 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 24 s
+time (get_verfsigs_rev): 2300 s
+  time (keygen): 4100 s
+  time (encrypt sigs): 870 s
+  time (encrypt randomness (paillier)): 1900 s
+  time (homomorphically obtain r component of BBS+ sig): 1.1 s
+  time (re-encrypt and permute): 9600 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 4300 s
+  time (decryption of blinded signatures): 810 s
+time (get_blsigs_rev_par): 22000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4100 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 60000 s
+---------------------------
+
+******** Worker 5 **********
+time (process_votes): 8600 s
+time (get_verfsigs): 3.1 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3000 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 360 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 14000 s
+time (dpk0nizkproofs): 6400 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 160 s
+time (dpk1nizkproofs): 120 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 51 s
+time (get_verfsigs_rev): 50 s
+  time (keygen): 90 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 2200 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 8500 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 4400 s
+  time (decryption of blinded signatures): 810 s
+time (get_blsigs_rev_par): 18000 s
+time (dpk2nizkproofs): 7100 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 3900 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 60000 s
+---------------------------
+
+******** Worker 81 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 1500 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 1500 s
+  time (getting blinded shares): 9300 s
+  time (generate encrypted blinded signatures): 230 s
+  time (decrypt blinded signatures): 28 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 6200 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 990 s
+time (gen_beaver_triples): 10 s
+time (dpk1nizkproofs): 28 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 2100 s
+  time (keygen): 290 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 60000 s
+---------------------------
+
+******** Worker 61 **********
+time (process_votes): 9000 s
+time (get_verfsigs): 1400 s
+  time (encrypt sigs): 50 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 370 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 5700 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 780 s
+time (gen_beaver_triples): 10 s
+time (dpk1nizkproofs): 28 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 1800 s
+  time (keygen): 100 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.6 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 80 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 1400 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 8400 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 3500 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 60000 s
+---------------------------
+
+******** Worker 54 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 45 s
+  time (encrypt sigs): 53 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 360 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6400 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 150 s
+time (dpk1nizkproofs): 120 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 53 s
+time (get_verfsigs_rev): 140 s
+  time (keygen): 0.12 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.4 s
+  time (re-encrypt and permute): 9000 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 5700 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 19000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 3400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 60000 s
+---------------------------
+
+******** Worker 63 **********
+time (process_votes): 9500 s
+time (get_verfsigs): 940 s
+  time (encrypt sigs): 50 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 390 s
+  time (decrypt blinded signatures): 49 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 3200 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 780 s
+time (gen_beaver_triples): 10 s
+time (dpk1nizkproofs): 28 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 4000 s
+  time (keygen): 400 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 2700 s
+  time (homomorphically obtain r component of BBS+ sig): 3.2 s
+  time (re-encrypt and permute): 8800 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6300 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 20000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 3100 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 61000 s
+---------------------------
+
+******** Worker 10 **********
+time (process_votes): 8600 s
+time (get_verfsigs): 3.1 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3000 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 19 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 890 s
+time (gen_beaver_triples): 260 s
+time (dpk1nizkproofs): 140 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 24 s
+time (get_verfsigs_rev): 60 s
+  time (keygen): 6300 s
+  time (encrypt sigs): 870 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 9000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4000 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 61000 s
+---------------------------
+
+******** Worker 74 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 5.8 s
+  time (encrypt sigs): 50 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 350 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6400 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 820 s
+time (gen_beaver_triples): 10 s
+time (dpk1nizkproofs): 28 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 27 s
+  time (keygen): 1300 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 2900 s
+  time (homomorphically obtain r component of BBS+ sig): 1.1 s
+  time (re-encrypt and permute): 7700 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6500 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 3000 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 61000 s
+---------------------------
+
+******** Worker 58 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 6.1 s
+  time (encrypt sigs): 51 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 360 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 5700 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 780 s
+time (gen_beaver_triples): 12 s
+time (dpk1nizkproofs): 28 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 2000 s
+  time (keygen): 50 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6700 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 20000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 3000 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 61000 s
+---------------------------
+
+******** Worker 33 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 4.6 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 8900 s
+  time (generate encrypted blinded signatures): 230 s
+  time (decrypt blinded signatures): 30 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6200 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 20 s
+time (dpk1nizkproofs): 59 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 57 s
+time (get_verfsigs_rev): 53 s
+  time (keygen): 1900 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.1 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6900 s
+  time (decryption of blinded signatures): 870 s
+time (get_blsigs_rev_par): 22000 s
+time (dpk2nizkproofs): 7000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 2800 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 61000 s
+---------------------------
+
+******** Worker 12 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 6.3 s
+  time (encrypt sigs): 53 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 8300 s
+  time (generate encrypted blinded signatures): 180 s
+  time (decrypt blinded signatures): 23 s
+time (get_blsigs_par): 9700 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 800 s
+time (gen_beaver_triples): 240 s
+time (dpk1nizkproofs): 60 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 29 s
+time (get_verfsigs_rev): 31 s
+  time (keygen): 6200 s
+  time (encrypt sigs): 1500 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.6 s
+  time (re-encrypt and permute): 7600 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6800 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 27000 s
+time (dpk2nizkproofs): 7100 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 2500 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 61000 s
+---------------------------
+
+******** Worker 28 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 36 s
+  time (encrypt sigs): 53 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 360 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6500 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 200 s
+time (dpk1nizkproofs): 78 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 53 s
+time (get_verfsigs_rev): 53 s
+  time (keygen): 26 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.5 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6800 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 7200 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 2400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 61000 s
+---------------------------
+
+******** Worker 72 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 5.9 s
+  time (encrypt sigs): 50 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 360 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 5900 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 780 s
+time (gen_beaver_triples): 11 s
+time (dpk1nizkproofs): 28 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 25 s
+  time (keygen): 1700 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9900 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 4200 s
+  time (decryption of blinded signatures): 1500 s
+time (get_blsigs_rev_par): 20000 s
+time (dpk2nizkproofs): 11000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 2400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 62000 s
+---------------------------
+
+******** Worker 40 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 10 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 21 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 4900 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1800 s
+time (gen_beaver_triples): 20 s
+time (dpk1nizkproofs): 58 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 54 s
+time (get_verfsigs_rev): 51 s
+  time (keygen): 4000 s
+  time (encrypt sigs): 870 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9900 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6700 s
+  time (decryption of blinded signatures): 1500 s
+time (get_blsigs_rev_par): 25000 s
+time (dpk2nizkproofs): 9200 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 2400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 63000 s
+---------------------------
+
+******** Worker 91 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 6.2 s
+  time (encrypt sigs): 53 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 330 s
+  time (decrypt blinded signatures): 48 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6500 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 180 s
+time (dpk1nizkproofs): 110 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 51 s
+time (get_verfsigs_rev): 50 s
+  time (keygen): 78 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.4 s
+  time (re-encrypt and permute): 7300 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6800 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 9000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 2400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 63000 s
+---------------------------
+
+******** Worker 16 **********
+time (process_votes): 8900 s
+time (get_verfsigs): 3.0 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 2700 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 150 s
+  time (decrypt blinded signatures): 20 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 880 s
+time (gen_beaver_triples): 48 s
+time (dpk1nizkproofs): 120 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 22 s
+time (get_verfsigs_rev): 310 s
+  time (keygen): 6300 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.3 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6800 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 27000 s
+time (dpk2nizkproofs): 9100 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 2300 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 63000 s
+---------------------------
+
+******** Worker 94 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 71 s
+  time (encrypt sigs): 49 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 8300 s
+  time (generate encrypted blinded signatures): 190 s
+  time (decrypt blinded signatures): 23 s
+time (get_blsigs_par): 9700 s
+time (dpk0nizkproofs): 5200 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 23 s
+time (dpk1nizkproofs): 28 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 3600 s
+  time (keygen): 35 s
+  time (encrypt sigs): 1500 s
+  time (encrypt randomness (paillier)): 3200 s
+  time (homomorphically obtain r component of BBS+ sig): 2.2 s
+  time (re-encrypt and permute): 7600 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6800 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 9100 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 2400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 63000 s
+---------------------------
+
+******** Worker 49 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 30 s
+  time (encrypt sigs): 24 s
+  time (re-encrypt and reverse-permute signatures): 1500 s
+  time (getting blinded shares): 9200 s
+  time (generate encrypted blinded signatures): 240 s
+  time (decrypt blinded signatures): 28 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 5900 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 23 s
+time (dpk1nizkproofs): 55 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 53 s
+time (get_verfsigs_rev): 1700 s
+  time (keygen): 250 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 3.0 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6800 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 9100 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 2400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 63000 s
+---------------------------
+
+******** Worker 87 **********
+time (process_votes): 9100 s
+time (get_verfsigs): 1300 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 9700 s
+  time (generate encrypted blinded signatures): 240 s
+  time (decrypt blinded signatures): 35 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 5500 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 790 s
+time (gen_beaver_triples): 10 s
+time (dpk1nizkproofs): 28 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 25 s
+  time (keygen): 2700 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.1 s
+  time (re-encrypt and permute): 9900 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6700 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 24000 s
+time (dpk2nizkproofs): 9300 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 2400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 64000 s
+---------------------------
+
+******** Worker 99 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 6.9 s
+  time (encrypt sigs): 36 s
+  time (re-encrypt and reverse-permute signatures): 3000 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 21 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 890 s
+time (gen_beaver_triples): 280 s
+time (dpk1nizkproofs): 140 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 24 s
+time (get_verfsigs_rev): 3400 s
+  time (keygen): 2900 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.0 s
+  time (re-encrypt and permute): 7300 s
+  time (generate blinding shares): 81 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 20000 s
+time (dpk2nizkproofs): 9200 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 7400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 64000 s
+---------------------------
+
+******** Worker 97 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 7.7 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 22 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 4100 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 21 s
+time (dpk1nizkproofs): 33 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 3200 s
+  time (keygen): 1900 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 2500 s
+  time (homomorphically obtain r component of BBS+ sig): 2.3 s
+  time (re-encrypt and permute): 9000 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 19000 s
+time (dpk2nizkproofs): 9800 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 7000 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 65000 s
+---------------------------
+
+******** Worker 71 **********
+time (process_votes): 8600 s
+time (get_verfsigs): 1900 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 22 s
+time (get_blsigs_par): 9300 s
+time (dpk0nizkproofs): 3400 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 880 s
+time (gen_beaver_triples): 230 s
+time (dpk1nizkproofs): 140 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 22 s
+time (get_verfsigs_rev): 220 s
+  time (keygen): 6100 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 9900 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6300 s
+  time (decryption of blinded signatures): 1100 s
+time (get_blsigs_rev_par): 26000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 2400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 65000 s
+---------------------------
+
+******** Worker 78 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 20 s
+  time (encrypt sigs): 60 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 360 s
+  time (decrypt blinded signatures): 46 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 71 s
+time (dpk1nizkproofs): 110 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 54 s
+time (get_verfsigs_rev): 270 s
+  time (keygen): 12 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3000 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 7700 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 4300 s
+  time (decryption of blinded signatures): 1500 s
+time (get_blsigs_rev_par): 18000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 3500 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 66000 s
+---------------------------
+
+******** Worker 1 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 5.2 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 8100 s
+  time (generate encrypted blinded signatures): 170 s
+  time (decrypt blinded signatures): 22 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 860 s
+time (gen_beaver_triples): 310 s
+time (dpk1nizkproofs): 89 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 28 s
+time (get_verfsigs_rev): 32 s
+  time (keygen): 6200 s
+  time (encrypt sigs): 870 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 1400 s
+time (get_blsigs_rev_par): 24000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4700 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 66000 s
+---------------------------
+
+******** Worker 73 **********
+time (process_votes): 8600 s
+time (get_verfsigs): 3.1 s
+  time (encrypt sigs): 24 s
+  time (re-encrypt and reverse-permute signatures): 3000 s
+  time (getting blinded shares): 8100 s
+  time (generate encrypted blinded signatures): 170 s
+  time (decrypt blinded signatures): 21 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 870 s
+time (gen_beaver_triples): 260 s
+time (dpk1nizkproofs): 120 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 26 s
+time (get_verfsigs_rev): 2200 s
+  time (keygen): 4100 s
+  time (encrypt sigs): 920 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3500 s
+  time (decryption of blinded signatures): 790 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 6400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 67000 s
+---------------------------
+
+******** Worker 30 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 1900 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 21 s
+time (get_blsigs_par): 9300 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 900 s
+time (gen_beaver_triples): 73 s
+time (dpk1nizkproofs): 100 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 21 s
+time (get_verfsigs_rev): 6600 s
+  time (keygen): 36 s
+  time (encrypt sigs): 870 s
+  time (encrypt randomness (paillier)): 2000 s
+  time (homomorphically obtain r component of BBS+ sig): 2.6 s
+  time (re-encrypt and permute): 9500 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6700 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 2400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 67000 s
+---------------------------
+
+******** Worker 68 **********
+time (process_votes): 8600 s
+time (get_verfsigs): 1800 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 22 s
+time (get_blsigs_par): 9400 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 890 s
+time (gen_beaver_triples): 290 s
+time (dpk1nizkproofs): 140 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 23 s
+time (get_verfsigs_rev): 180 s
+  time (keygen): 6200 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 2000 s
+  time (homomorphically obtain r component of BBS+ sig): 1.1 s
+  time (re-encrypt and permute): 8600 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 3600 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 6300 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 67000 s
+---------------------------
+
+******** Worker 53 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 36 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 3000 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 21 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 880 s
+time (gen_beaver_triples): 300 s
+time (dpk1nizkproofs): 130 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 24 s
+time (get_verfsigs_rev): 6200 s
+  time (keygen): 90 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 2700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.1 s
+  time (re-encrypt and permute): 8000 s
+  time (generate blinding shares): 81 s
+  time (generate encrypted blinded signatures): 3600 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 6200 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 67000 s
+---------------------------
+
+******** Worker 29 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 6.3 s
+  time (encrypt sigs): 55 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 9800 s
+  time (generate encrypted blinded signatures): 210 s
+  time (decrypt blinded signatures): 29 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 6400 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 32 s
+time (dpk1nizkproofs): 58 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 54 s
+time (get_verfsigs_rev): 720 s
+  time (keygen): 130 s
+  time (encrypt sigs): 950 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.4 s
+  time (re-encrypt and permute): 8100 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 3800 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 17000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 6200 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 67000 s
+---------------------------
+
+******** Worker 64 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 3.1 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 150 s
+  time (decrypt blinded signatures): 21 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 890 s
+time (gen_beaver_triples): 250 s
+time (dpk1nizkproofs): 140 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 23 s
+time (get_verfsigs_rev): 78 s
+  time (keygen): 6300 s
+  time (encrypt sigs): 900 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 5100 s
+  time (decryption of blinded signatures): 920 s
+time (get_blsigs_rev_par): 25000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5800 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 68000 s
+---------------------------
+
+******** Worker 77 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 6.3 s
+  time (encrypt sigs): 53 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 370 s
+  time (decrypt blinded signatures): 48 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6500 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 190 s
+time (dpk1nizkproofs): 69 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 54 s
+time (get_verfsigs_rev): 50 s
+  time (keygen): 7.0 s
+  time (encrypt sigs): 1800 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.2 s
+  time (re-encrypt and permute): 7300 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 5400 s
+  time (decryption of blinded signatures): 810 s
+time (get_blsigs_rev_par): 19000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5700 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 68000 s
+---------------------------
+
+******** Worker 83 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 5.8 s
+  time (encrypt sigs): 53 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 380 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6200 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 43 s
+time (dpk1nizkproofs): 58 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 55 s
+time (get_verfsigs_rev): 480 s
+  time (keygen): 0.00064 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.5 s
+  time (re-encrypt and permute): 7300 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 5800 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 19000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5600 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 68000 s
+---------------------------
+
+******** Worker 90 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 1500 s
+  time (encrypt sigs): 24 s
+  time (re-encrypt and reverse-permute signatures): 1500 s
+  time (getting blinded shares): 9700 s
+  time (generate encrypted blinded signatures): 240 s
+  time (decrypt blinded signatures): 28 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6400 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 33 s
+time (dpk1nizkproofs): 58 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 55 s
+time (get_verfsigs_rev): 750 s
+  time (keygen): 75 s
+  time (encrypt sigs): 870 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 81 s
+  time (generate encrypted blinded signatures): 5100 s
+  time (decryption of blinded signatures): 1500 s
+time (get_blsigs_rev_par): 19000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5500 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 68000 s
+---------------------------
+
+******** Worker 32 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 6.3 s
+  time (encrypt sigs): 52 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 340 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6400 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 57 s
+time (dpk1nizkproofs): 100 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 50 s
+time (get_verfsigs_rev): 63 s
+  time (keygen): 190 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.1 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6000 s
+  time (decryption of blinded signatures): 800 s
+time (get_blsigs_rev_par): 19000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5400 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 62 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 6.2 s
+  time (encrypt sigs): 57 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 370 s
+  time (decrypt blinded signatures): 46 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6500 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 190 s
+time (dpk1nizkproofs): 71 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 56 s
+time (get_verfsigs_rev): 48 s
+  time (keygen): 0.0013 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.4 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6200 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 20000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5300 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 52 **********
+time (process_votes): 8600 s
+time (get_verfsigs): 1900 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 21 s
+time (get_blsigs_par): 9400 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 890 s
+time (gen_beaver_triples): 300 s
+time (dpk1nizkproofs): 130 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 26 s
+time (get_verfsigs_rev): 180 s
+  time (keygen): 6100 s
+  time (encrypt sigs): 1100 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9500 s
+  time (generate blinding shares): 82 s
+  time (generate encrypted blinded signatures): 6100 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 26000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5300 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 98 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 89 s
+  time (encrypt sigs): 24 s
+  time (re-encrypt and reverse-permute signatures): 3000 s
+  time (getting blinded shares): 8200 s
+  time (generate encrypted blinded signatures): 210 s
+  time (decrypt blinded signatures): 26 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 4800 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 790 s
+time (gen_beaver_triples): 16 s
+time (dpk1nizkproofs): 29 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 25 s
+  time (keygen): 5000 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1600 s
+  time (homomorphically obtain r component of BBS+ sig): 1.0 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 81 s
+  time (generate encrypted blinded signatures): 6100 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 25000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5200 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 36 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 1900 s
+  time (encrypt sigs): 24 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 8200 s
+  time (generate encrypted blinded signatures): 170 s
+  time (decrypt blinded signatures): 23 s
+time (get_blsigs_par): 9600 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 830 s
+time (gen_beaver_triples): 300 s
+time (dpk1nizkproofs): 73 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 66 s
+  time (keygen): 6200 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.4 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6700 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 27000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4700 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 8 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 5.3 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 22 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 890 s
+time (gen_beaver_triples): 290 s
+time (dpk1nizkproofs): 130 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 26 s
+time (get_verfsigs_rev): 37 s
+  time (keygen): 6200 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.1 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6400 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 27000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5100 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 76 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 36 s
+  time (encrypt sigs): 51 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 360 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6100 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 780 s
+time (gen_beaver_triples): 10 s
+time (dpk1nizkproofs): 28 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 25 s
+  time (keygen): 1600 s
+  time (encrypt sigs): 870 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6400 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 22000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5100 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 85 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 39 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3000 s
+  time (getting blinded shares): 9500 s
+  time (generate encrypted blinded signatures): 220 s
+  time (decrypt blinded signatures): 28 s
+time (get_blsigs_par): 13000 s
+time (dpk0nizkproofs): 6200 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1200 s
+time (gen_beaver_triples): 11 s
+time (dpk1nizkproofs): 28 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 1800 s
+  time (keygen): 120 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 81 s
+  time (generate encrypted blinded signatures): 6400 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5100 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 75 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 6.3 s
+  time (encrypt sigs): 49 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 350 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 5700 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 780 s
+time (gen_beaver_triples): 11 s
+time (dpk1nizkproofs): 30 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 26 s
+  time (keygen): 2000 s
+  time (encrypt sigs): 890 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6900 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5100 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 89 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 19 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 9000 s
+  time (generate encrypted blinded signatures): 240 s
+  time (decrypt blinded signatures): 29 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6100 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 19 s
+time (dpk1nizkproofs): 59 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 56 s
+time (get_verfsigs_rev): 54 s
+  time (keygen): 1900 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.4 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6800 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5100 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 84 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 5.7 s
+  time (encrypt sigs): 50 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 9800 s
+  time (generate encrypted blinded signatures): 190 s
+  time (decrypt blinded signatures): 24 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3200 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 790 s
+time (gen_beaver_triples): 18 s
+time (dpk1nizkproofs): 32 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 25 s
+  time (keygen): 5000 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.4 s
+  time (re-encrypt and permute): 7300 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6700 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 26000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5000 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 43 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 5.6 s
+  time (encrypt sigs): 50 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 360 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6200 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 42 s
+time (dpk1nizkproofs): 58 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 53 s
+time (get_verfsigs_rev): 59 s
+  time (keygen): 430 s
+  time (encrypt sigs): 1800 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.4 s
+  time (re-encrypt and permute): 7300 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6800 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5100 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 50 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 5.8 s
+  time (encrypt sigs): 47 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 8400 s
+  time (generate encrypted blinded signatures): 180 s
+  time (decrypt blinded signatures): 24 s
+time (get_blsigs_par): 9800 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 800 s
+time (gen_beaver_triples): 200 s
+time (dpk1nizkproofs): 49 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 26 s
+  time (keygen): 6100 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 81 s
+  time (generate encrypted blinded signatures): 6700 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 27000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5100 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 9 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 4.6 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 150 s
+  time (decrypt blinded signatures): 22 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 5000 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1800 s
+time (gen_beaver_triples): 23 s
+time (dpk1nizkproofs): 62 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 46 s
+time (get_verfsigs_rev): 26 s
+  time (keygen): 4100 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.5 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6800 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 25000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5000 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 67 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 5.7 s
+  time (encrypt sigs): 49 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 370 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 5200 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 780 s
+time (gen_beaver_triples): 11 s
+time (dpk1nizkproofs): 28 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 25 s
+  time (keygen): 2500 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.8 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6800 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 23000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5000 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 38 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 1900 s
+  time (encrypt sigs): 49 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 350 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 4600 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 790 s
+time (gen_beaver_triples): 10 s
+time (dpk1nizkproofs): 28 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 27 s
+time (get_verfsigs_rev): 3000 s
+  time (keygen): 0.6 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.5 s
+  time (re-encrypt and permute): 7300 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6700 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5100 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 57 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 5.7 s
+  time (encrypt sigs): 48 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 360 s
+  time (decrypt blinded signatures): 47 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6400 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 180 s
+time (dpk1nizkproofs): 110 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 52 s
+time (get_verfsigs_rev): 52 s
+  time (keygen): 61 s
+  time (encrypt sigs): 1600 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.4 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6600 s
+  time (decryption of blinded signatures): 1500 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5000 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 66 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 6.2 s
+  time (encrypt sigs): 51 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 8300 s
+  time (generate encrypted blinded signatures): 190 s
+  time (decrypt blinded signatures): 24 s
+time (get_blsigs_par): 9600 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 800 s
+time (gen_beaver_triples): 230 s
+time (dpk1nizkproofs): 58 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 45 s
+time (get_verfsigs_rev): 26 s
+  time (keygen): 6100 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.4 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6600 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 27000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5100 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 60 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 46 s
+  time (encrypt sigs): 56 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 360 s
+  time (decrypt blinded signatures): 44 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6500 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 160 s
+time (dpk1nizkproofs): 67 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 50 s
+time (get_verfsigs_rev): 48 s
+  time (keygen): 0.00061 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.4 s
+  time (re-encrypt and permute): 7300 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6600 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5000 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 69 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 46 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3000 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 21 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 890 s
+time (gen_beaver_triples): 280 s
+time (dpk1nizkproofs): 140 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 23 s
+time (get_verfsigs_rev): 6200 s
+  time (keygen): 120 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6800 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4900 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 17 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 5.6 s
+  time (encrypt sigs): 48 s
+  time (re-encrypt and reverse-permute signatures): 1500 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 360 s
+  time (decrypt blinded signatures): 44 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 50 s
+time (dpk1nizkproofs): 98 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 51 s
+time (get_verfsigs_rev): 64 s
+  time (keygen): 260 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.8 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6700 s
+  time (decryption of blinded signatures): 1700 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5000 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 22 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 6.1 s
+  time (encrypt sigs): 49 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 360 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6400 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 150 s
+time (dpk1nizkproofs): 120 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 51 s
+time (get_verfsigs_rev): 150 s
+  time (keygen): 1.7 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3400 s
+  time (homomorphically obtain r component of BBS+ sig): 2.3 s
+  time (re-encrypt and permute): 7300 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6800 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 12000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5000 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 80 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 310 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 2700 s
+  time (getting blinded shares): 8300 s
+  time (generate encrypted blinded signatures): 210 s
+  time (decrypt blinded signatures): 29 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 5600 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 20 s
+time (dpk1nizkproofs): 57 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 58 s
+time (get_verfsigs_rev): 52 s
+  time (keygen): 3100 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9900 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6700 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 24000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5000 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 19 **********
+time (process_votes): 9500 s
+time (get_verfsigs): 3.1 s
+  time (encrypt sigs): 39 s
+  time (re-encrypt and reverse-permute signatures): 2100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 360 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 13000 s
+time (dpk0nizkproofs): 6500 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 180 s
+time (dpk1nizkproofs): 65 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 51 s
+time (get_verfsigs_rev): 47 s
+  time (keygen): 0.64 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.8 s
+  time (re-encrypt and permute): 7300 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6800 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4900 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 26 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 5.5 s
+  time (encrypt sigs): 45 s
+  time (re-encrypt and reverse-permute signatures): 1500 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 360 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6400 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 190 s
+time (dpk1nizkproofs): 100 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 51 s
+time (get_verfsigs_rev): 50 s
+  time (keygen): 49 s
+  time (encrypt sigs): 1100 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 3.0 s
+  time (re-encrypt and permute): 9500 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6700 s
+  time (decryption of blinded signatures): 1700 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4900 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 79 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 5.8 s
+  time (encrypt sigs): 51 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 370 s
+  time (decrypt blinded signatures): 51 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6500 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1600 s
+time (gen_beaver_triples): 170 s
+time (dpk1nizkproofs): 63 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 26 s
+time (get_verfsigs_rev): 25 s
+  time (keygen): 0.00052 s
+  time (encrypt sigs): 860 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 9900 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6800 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5000 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 2 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 16 s
+  time (encrypt sigs): 26 s
+  time (re-encrypt and reverse-permute signatures): 3100 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 150 s
+  time (decrypt blinded signatures): 19 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 890 s
+time (gen_beaver_triples): 170 s
+time (dpk1nizkproofs): 140 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 22 s
+time (get_verfsigs_rev): 170 s
+  time (keygen): 6300 s
+  time (encrypt sigs): 870 s
+  time (encrypt randomness (paillier)): 1700 s
+  time (homomorphically obtain r component of BBS+ sig): 1.3 s
+  time (re-encrypt and permute): 9800 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6800 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 27000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4900 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 24 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 3.0 s
+  time (encrypt sigs): 24 s
+  time (re-encrypt and reverse-permute signatures): 1600 s
+  time (getting blinded shares): 8000 s
+  time (generate encrypted blinded signatures): 160 s
+  time (decrypt blinded signatures): 21 s
+time (get_blsigs_par): 9800 s
+time (dpk0nizkproofs): 3300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 890 s
+time (gen_beaver_triples): 270 s
+time (dpk1nizkproofs): 140 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 24 s
+time (get_verfsigs_rev): 79 s
+  time (keygen): 6200 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 2500 s
+  time (homomorphically obtain r component of BBS+ sig): 1.2 s
+  time (re-encrypt and permute): 8200 s
+  time (generate blinding shares): 99 s
+  time (generate encrypted blinded signatures): 6800 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 27000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5000 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 31 **********
+time (process_votes): 8500 s
+time (get_verfsigs): 1900 s
+  time (encrypt sigs): 25 s
+  time (re-encrypt and reverse-permute signatures): 1200 s
+  time (getting blinded shares): 9400 s
+  time (generate encrypted blinded signatures): 230 s
+  time (decrypt blinded signatures): 28 s
+time (get_blsigs_par): 11000 s
+time (dpk0nizkproofs): 6200 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1700 s
+time (gen_beaver_triples): 20 s
+time (dpk1nizkproofs): 53 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 56 s
+time (get_verfsigs_rev): 970 s
+  time (keygen): 400 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3300 s
+  time (homomorphically obtain r component of BBS+ sig): 2.4 s
+  time (re-encrypt and permute): 7400 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6700 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 5000 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+
+******** Worker 15 **********
+time (process_votes): 10000 s
+time (get_verfsigs): 6.9 s
+  time (encrypt sigs): 56 s
+  time (re-encrypt and reverse-permute signatures): 1100 s
+  time (getting blinded shares): 10000 s
+  time (generate encrypted blinded signatures): 360 s
+  time (decrypt blinded signatures): 45 s
+time (get_blsigs_par): 12000 s
+time (dpk0nizkproofs): 6300 s
+retval (dpk0nizkverifs): True
+time (dpk0nizkverifs): 1600 s
+time (gen_beaver_triples): 44 s
+time (dpk1nizkproofs): 58 s
+retval (dpk1nizkverifs): True
+time (dpk1nizkverifs): 55 s
+time (get_verfsigs_rev): 58 s
+  time (keygen): 360 s
+  time (encrypt sigs): 1700 s
+  time (encrypt randomness (paillier)): 3200 s
+  time (homomorphically obtain r component of BBS+ sig): 2.2 s
+  time (re-encrypt and permute): 7500 s
+  time (generate blinding shares): 100 s
+  time (generate encrypted blinded signatures): 6800 s
+  time (decryption of blinded signatures): 1600 s
+time (get_blsigs_rev_par): 21000 s
+time (dpk2nizkproofs): 13000 s
+retval (dpk2nizkverifs): True
+time (dpk2nizkverifs): 4900 s
+size of one group element in G1: 32.0  bytes
+size of one group element in Zq: 31.0  bytes
+size of one BB signature: 32.0 bytes
+size of one BBS+ signature: 94.0 bytes
+size of one DPK0 proof: 124.0 bytes
+size of one DPK1 proof: 93.0 bytes
+size of one DPK2 proof: 600.0 bytes
+time (main): 69000 s
+---------------------------
+

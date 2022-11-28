@@ -1,5 +1,5 @@
 # Distributed-ZKP-for-recoverability
-This is an implementation of a novel distributed ZKP for E2E-V voting protocols to makes votes efficiently recoverable in case of tally mismatch.
+This is an implementation of a novel distributed ZKP for E2E-V voting protocols. In case of tally mismatch, our ZKP allows for efficient vote recovery.
 
 # Running the benchmarks #
 ==========================
